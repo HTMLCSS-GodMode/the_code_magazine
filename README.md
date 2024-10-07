@@ -4,6 +4,8 @@
 
 Welcome to **The Code Magazine** repository! This project focuses on exploring the fundamentals of **HTML** and **CSS**, showcasing how to effectively utilize core features of both technologies to create a well-structured and visually appealing website.
 
+live preview on : https://htmlcss-godmode.github.io/the_code_magazine/
+
 ## Project Overview
 
 The Code Magazine is designed to serve as a learning resource and demonstration of the basic but essential functionalities of HTML and CSS. It's a simple web project aimed at helping beginners understand how these technologies work together to build a functional and styled webpage.
